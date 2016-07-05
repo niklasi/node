@@ -6,6 +6,7 @@
 </tr>
 <tr>
 <td>
+<a href="#6.3.0">6.3.0</a><br/>
 <a href="#6.2.2">6.2.2</a><br/>
 <a href="#6.2.1">6.2.1</a><br/>
 <a href="#6.2.0">6.2.0</a><br/>
@@ -26,6 +27,9 @@
 **Note:** The v6 release line will be covered by the
 [Node.js Long Term Support plan](https://github.com/nodejs/LTS) starting in
 October 2016.
+
+<a id="6.3.0"></a>
+## 2016-07-05, Version 6.2.2 (Current), @Fishrock123
 
 <a id="6.2.2"></a>
 ## 2016-06-17, Version 6.2.2 (Current), @evanlucas
